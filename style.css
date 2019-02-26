@@ -1,0 +1,13 @@
+
+h1, h2 {
+  font-family: Lato;
+}
+#app{
+    margin: 0 auto;
+    text-align: center;
+    height: 1000;
+    width: 800px;
+}
+#canvas{
+  border: solid 1px;
+}

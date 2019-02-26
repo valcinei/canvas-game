@@ -1,0 +1,21 @@
+{
+  "name": "canvas-game",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {},
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.3.3333",
+    "webpack": "^4.29.5",
+    "webpack-cli": "^3.2.3"
+  }
+}
