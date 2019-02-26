@@ -1,6 +1,10 @@
 ## Canvas Game HTML and Typescript
 
 ### To run project
+#### Requeriments
+```bash
+NodeJS 8~11
+```
 #### Install NPM dependencies
 ```bash
 npm install
