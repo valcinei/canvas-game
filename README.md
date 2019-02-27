@@ -1,4 +1,5 @@
 ## Canvas Game HTML and Typescript
+### [Demo](https://valcinei.github.io/canvas-game/)
 
 ### To run project
 #### Requeriments
